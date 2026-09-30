@@ -1,0 +1,11 @@
+.DS_Store
+.build-cache/
+dist/
+*.log
+*.ips
+.env*
+*.p12
+*.pfx
+*.key
+*.mobileprovision
+*.provisionprofile
